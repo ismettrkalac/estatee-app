@@ -1,0 +1,27 @@
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url('/public/assets/1_nyU2IcNL3TVxZ_GPkkmt2g.png');
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .form-wrapper {
+    background: rgba(255, 255, 255, 0.9); /* Yarı saydam beyaz arka plan */
+    padding: 40px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .login-title {
+    margin-bottom: 24px;
+    color: #001529;
+  }
+  
+  .login-form-button {
+    width: 100%;
+  }
+  
